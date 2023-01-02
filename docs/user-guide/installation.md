@@ -25,9 +25,9 @@ If you need to update or install PHP follow the [official documentation](https:/
 
 ### Sqlite3
 
-All time tracking data is stored in a [SQLite](https://sqlite.org) database. Your PHP installation will need to include the [SQLite extension](https://www.php.net/manual/en/book.sqlite.php).
+All time tracking data is stored in a [SQLite](https://sqlite.org) database. Your PHP installation will need to include the [SQLite extension](https://www.php.net/manual/en/book.sqlite3.php).
 
-If you see `sqlite3` listed in the output of `php -m` the extension is already installed. Otherwise follow the [official guide](https://www.php.net/manual/en/sqlite.installation.php) to install and enable it.
+If you see `sqlite3` listed in the output of `php -m` the extension is already installed. Otherwise follow the [official guide](https://www.php.net/manual/en/sqlite3.installation.php) to install and enable it.
 
 ## Installing
 
